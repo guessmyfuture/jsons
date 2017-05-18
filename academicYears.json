@@ -16,11 +16,5 @@
 		"degreeName": "Master of Business Administration",
 		"degreeType": "PG",
 		"degreeShortForm": "MBA"
-	},
-	{
-		"id": 5,
-		"degreeName": "Master of Computer Applciations",
-		"degreeType": "PG",
-		"degreeShortForm": "MCA"
 	}
 ]
