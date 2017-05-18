@@ -1,8 +1,1 @@
-{"select":"<select ng-model="vm.parkingArea.parkingType" name="parkingType" id="field_parkingType" class="form-control" required>
-                    <option disabled selected hidden value="">Please Select</option>
-                    <option class="option-value" value="Staff Only">Staff Only</option>
-                    <option class="option-value" value="Student Only">Student Only</option>
-                    <option class="option-value" value="Both Staff & Student">Both Staff & Student</option>
-                </select>"
-}
 
