@@ -1,67 +1,26 @@
-[{
-        "id": 2001-2002,
-        "year": 2001-2002
-    },
-    {
-        "id": 2002-2003,
-            "year": 2002-2003
-    },
-    {
-        "id": 2003-2004,
-            "year": 2003-2004
-    },
-    {
-        "id": 2004-2005,
-            "year": 2004-2005
-    },
-    {
-        "id": 2005-2006,
-            "year": 2005-2006
-    },
-    {
-        "id": 2006-2007,
-            "year": 2006-2007
-    },
-    {
-        "id": 2007-2008,
-            "year": 2007-2008
-    },
-    {
-        "id": 2008-2009,
-            "year": 2008-2009
-    },
-    {
-        "id": 2009-2010,
-            "year": 2009-2010
-    },
-    {
-        "id": 2011-2012,
-            "year": 2011-2012
-    },
-    {
-        "id": 2012-2013,
-            "year": 2012-2013
-    },
-    {
-        "id": 2013-2014,
-            "year": 2013-2014
-    },
-    {
-        "id": 2014-2015,
-            "year": 2014-2015
-    },
-    {
-        "id": 2015-2016,
-            "year": 2015-2016
-    },
-    {
-        "id": 2016-2017,
-            "year": 2016-2017
-    },
-    {
-        "id": 2017-2018,
-            "year": 2017-2018
-    }
+[
+	{
+		"year": 1,
+		"degreeName": "Bachelor of Engineering",
+		"degreeType": "UG",
+		"degreeShortForm": "B.E"
+	},
+	{
+		"id": 2,
+		"degreeName": "Bachelor of Technology",
+		"degreeType": "UG",
+		"degreeShortForm": "B.Tech"
+	},
+	{
+		"id": 4,
+		"degreeName": "Master of Business Administration",
+		"degreeType": "PG",
+		"degreeShortForm": "MBA"
+	},
+	{
+		"id": 5,
+		"degreeName": "Master of Computer Applciations",
+		"degreeType": "PG",
+		"degreeShortForm": "MCA"
+	}
 ]
-
-
